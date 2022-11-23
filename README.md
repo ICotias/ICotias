@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ICotias
+- 👀 I’m interested in to be a huge dev
+- 🌱 I’m currently learning how to do a websites with HTML, CSS and JS
+- 📫 My email is iagocotias10@gmail.com and my instagram is @iago_cotias
